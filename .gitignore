@@ -2,3 +2,4 @@
 .venv
 workspace.xml
 *.iml
+__pycache__
